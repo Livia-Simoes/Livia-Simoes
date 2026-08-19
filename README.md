@@ -1,8 +1,8 @@
-# <div align="center">👋 Olá, eu sou o Nicollas Cristante</div>
+# <div align="center">👋 Olá, eu a livia</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Criando+Projetos+Incríveis;Sempre+Aprendendo+Algo+Novo" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Sempre+Aprendendo+Algo+Novo" />
 
 <br>
 
@@ -15,12 +15,7 @@
 ## 🚀 Sobre mim
 
 ```txt
-💻 Desenvolvedor Full Stack
-🚀 Sempre explorando novas tecnologias
-📚 Aprendizado contínuo
-🎯 Focado em criar soluções modernas
-🤝 Aberto para colaboração em projetos
-☕ Café + Código = Produtividade
+💻 Desenvolvedor 
 ```
 
 ---
@@ -66,13 +61,13 @@
 
 <div align="center">
 
-🎧 Música + Café + Código
+🎧 Música + Código
 
 </div>
 
 ---
 
-## ☕ Combustível
+
 
 <div align="center">
 
