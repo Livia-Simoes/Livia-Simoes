@@ -19,15 +19,16 @@
 ```
 ---
 
-## 🛠️ Tecnologias em aprendizado
+## 🌺 Tecnologias em aprendizado
 
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-FF1493?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-C71585?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-DB7093?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-E6E6FA?style=for-the-badge&logo=git&logoColor=FF1493" />
+  
 </div>
 
 ---
