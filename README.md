@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Sempre+Aprendendo+Algo+Novo;Criando+Projetos+Incriveis;Dev+%2B+Design" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Criando+projetos+incriveis;Sempre+aprendendo+algo+novo;Design+%2B+Codigo" />
 
 <br>
 
@@ -15,5 +15,5 @@
 ## 🌸 Sobre mim
 
 ```txt
-💻 Desenvolvedora em evolução ✨
+💻 Desenvolvedora em evolução 🩷
 
