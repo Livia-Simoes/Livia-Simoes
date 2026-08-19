@@ -63,7 +63,6 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Coffee-Lover-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
 <img src="https://img.shields.io/badge/Clean%20Code-Developer-blue?style=for-the-badge"/>
 
