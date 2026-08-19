@@ -1,4 +1,4 @@
-# <div align="center">👋 Olá, eu a livia</div>
+# <div align="center">👋 Olá, eu sou a Livia</div>
 
 <div align="center">
 
@@ -38,22 +38,14 @@
 
 </div>
 
-## 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cristantenicollas&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ---
 
 ## 🌌 Atualmente
 
-* 🌱 Aprendendo novas tecnologias e boas práticas.
-* ⚡ Desenvolvendo projetos pessoais.
-* 📖 Estudando arquitetura de software.
-* 💡 Sempre em busca de novos desafios.
+* Aprendendo novas tecnologias e boas práticas.
+* Desenvolvendo projetos pessoais.
+* Estudando arquitetura de software.
+* Sempre em busca de novos desafios.
 
 ---
 
@@ -103,22 +95,5 @@
 
 ---
 
-## 🐍 Contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
-
 ### ✨ Obrigado por visitar meu perfil!
 
-<img src="https://komarev.com/ghpvc/?username=Cristantenicollas&label=Visualizações&color=0e75b6&style=for-the-badge"/>
-
-</div>
