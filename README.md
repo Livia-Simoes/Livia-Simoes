@@ -12,8 +12,8 @@
 
 ---
 
-## 🌸 Sobre mim
+## 🩷 Sobre mim
 
 ```txt
-💻 Desenvolvedora em evolução 🩷
+💻 Desenvolvedora em evolução 🌷
 
