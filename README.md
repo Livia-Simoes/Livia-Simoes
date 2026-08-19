@@ -1,4 +1,4 @@
-# <div align="center">👋 Olá, eu sou a Livia</div>
+# <div align="center">Livia</div>
 
 <div align="center">
 
@@ -69,15 +69,6 @@
 </div>
 
 ---
-
-## 🌐 Redes
-
-<div align="center">
-
-<a href="https://github.com/Livia-Simoes">
-
-
-<!-- Adicione abaixo suas redes sociais -->
 
 <!--
 <a href="https://linkedin.com/in/seuusuario">
